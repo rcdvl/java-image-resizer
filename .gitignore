@@ -1,0 +1,5 @@
+bin/**
+*.tmp
+*.bak
+*.swp
+*~.nib
